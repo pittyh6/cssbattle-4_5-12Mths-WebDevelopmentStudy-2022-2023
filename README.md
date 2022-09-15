@@ -1,20 +1,19 @@
 # Web Developer Study
 ## 12 months web developer study. I decided to dedicate at least 12 months to learn web development.
-## Challenge HTML, CSS, SASS and JavaScript by frontendMentor
+## Challenge HTML & CSS by cssbattle.dev
 
 ![Begin Banner](/Documentation/top-1200x350.gif)
 
-### Third Month / Sprint(July 29/07 - 31/08) 
+### four Month / Sprint(July 01/09 - 30/09) 
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used (Link for details)
-
-* Projects [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023)
-* SASS [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
-<!-- 
 * CSS [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
 * HTML [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
 * Resources [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
+<!-- 
+* Projects [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023)
+* SASS [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
 * JavaScript [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 -->
 
@@ -36,7 +35,10 @@
 * (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023) (CSS Grid - The net ninja)
 * (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023) (CSS Transition - codeAcademy)
 * (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023) (SASS & BEM - coder coder)
-
+* (3 mth) & (4 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3e4-12Mths-WebDevStudy-2022-2023) (freeCodeCamp (New) Responsive Web Design)
+* (4 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023) (freeCodeCamp - JavaScript Algorithms and Data Structures)
+* (4 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/codewars_12Mths-WebDevelopmentStudy-2022-2023) (codewars - JavaScript Challenges)
+* (4 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/cssbattle_12Mths-WebDevelopmentStudy-2022-2023) (cssbattle.dev - CSS Challenges)
 
 ## Management Tools
 * Jira(Sprints) [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/tree/master/Sprint)
