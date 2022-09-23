@@ -17,12 +17,10 @@
 * JavaScript [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 -->
 
-<!-- ## Project + Result
-* Desktop
-![Begin Banner](/Documentation/desktop-result.gif)
-
-* Mobile
-![Begin Banner](/Documentation/mobile-result.gif) -->
+## Project + Result
+* Simply Square [link](https://github.com/pittyh6/cssbattle_12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/yank_1)
+* Carrom [link](https://github.com/pittyh6/cssbattle_12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/bee_2_carrom)
+* Push Button [link](https://github.com/pittyh6/cssbattle_12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/vicent_3_push_button)
 
 
 ## Previous Projects
