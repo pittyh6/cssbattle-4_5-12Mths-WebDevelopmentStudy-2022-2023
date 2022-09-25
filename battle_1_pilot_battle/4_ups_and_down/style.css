@@ -1,0 +1,22 @@
+body{
+    background: #62306D;
+  }
+  div {
+    width: 100px;
+    height: 100px;
+    background: #F7EC7D;
+    position: absolute;
+  }
+  .up{
+    border-radius: 50% 50% 0 0;
+    left: 200px;
+    top: 150px;
+  }
+  .down{
+    border-radius: 0 0 50% 50%;
+    left: 100px;
+    top: 250px;
+  }
+  .down:nth-of-type(1){
+    left: 300px;
+  }
