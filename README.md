@@ -18,10 +18,13 @@
 -->
 
 ## Project + Result
-* Simply Square [link](https://github.com/pittyh6/cssbattle_12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/yank_1)
-* Carrom [link](https://github.com/pittyh6/cssbattle_12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/bee_2_carrom)
-* Push Button [link](https://github.com/pittyh6/cssbattle_12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/vicent_3_push_button)
 * Up & Down [link](https://github.com/pittyh6/cssbattle_12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/4_ups_and_down)
+* Push Button [link](https://github.com/pittyh6/cssbattle_12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/vicent_3_push_button)
+* Carrom [link](https://github.com/pittyh6/cssbattle_12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/bee_2_carrom)
+* Simply Square [link](https://github.com/pittyh6/cssbattle_12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/yank_1)
+
+
+
 
 ## Previous Projects
 * (1 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023)
