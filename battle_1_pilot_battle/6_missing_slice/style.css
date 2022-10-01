@@ -1,0 +1,25 @@
+body {
+  background: #e3516e;
+}
+div {
+  width: 100px;
+  height: 100px;
+  background: #dd6b4d;
+  border-radius: 100% 0 0% 0%;
+  position: absolute;
+  top: 50px;
+  left: 100px;
+}
+.one {
+  background: #51b5a9;
+}
+.two {
+  background: #f7f3d7;
+  transform: rotate(-90deg);
+  top: 150px;
+}
+.three {
+  background: #fade8b;
+  transform: rotate(90deg);
+  left: 200px;
+}
