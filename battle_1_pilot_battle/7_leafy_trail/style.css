@@ -1,0 +1,22 @@
+body {
+  background: #0b2429;
+}
+div,
+i,
+span {
+  width: 150px;
+  height: 150px;
+  background: #f3ac3c;
+  position: fixed;
+  top: 75px;
+  left: 175px;
+  border-radius: 65%0;
+}
+div {
+  left: 76px;
+  background: #1a4341;
+}
+i {
+  left: 126px;
+  background: #998235;
+}
