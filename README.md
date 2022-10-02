@@ -18,6 +18,7 @@
 -->
 
 ## Project + Result
+* Leafy Trail [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/7_leafy_trail)
 * Missing Slice [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/6_missing_slice)
 * Acid Rain [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/5_acid_rain)
 * Up & Down [link](https://github.com/pittyh6/cssbattle_12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/4_ups_and_down)
