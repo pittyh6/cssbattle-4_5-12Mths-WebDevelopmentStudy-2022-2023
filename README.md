@@ -4,14 +4,15 @@
 
 ![Begin Banner](/Documentation/top-1200x350.gif)
 
-### four Month / Sprint(July 01/09 - 30/09) 
+### four/fifth Month / Sprint(July 01/09 - 31/10) 
 * Online courses, challenges and creation of my own projects.
 
+<!--
 ## What I learned/used (Link for details)
 * CSS [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
 * HTML [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
 * Resources [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
-<!-- 
+ 
 * Projects [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023)
 * SASS [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
 * JavaScript [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
