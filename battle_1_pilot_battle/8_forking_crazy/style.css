@@ -1,0 +1,13 @@
+body {
+  background: #6592cf;
+  display: grid;
+  grid-template-columns: repeat(3, 60px);
+}
+div {
+  width: 100px;
+  height: 100px;
+  background: #060f55;
+}
+.o {
+  background: red;
+}
